@@ -10,4 +10,4 @@ ResxUI Güncelleme Logları;
 `1.0 Sürümü Çıkmıştır.`
 ```
 
-Daha Fazlası İçin [ResxForum](http://resxcheat.ga/)'a bekleriz.
+Daha Fazlası İçin [ResxForum](http://resxcheat.ga)'a bekleriz.
