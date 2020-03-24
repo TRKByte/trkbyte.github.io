@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```
 ResxUI Güncelleme Logları;
 
-'1.0 Sürümü Çıkmıştır.'
+'1.0 Sürümü Çıkmıştı.'
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
