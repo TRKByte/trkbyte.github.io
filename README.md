@@ -2,12 +2,12 @@
 
 Sitemize Hoşgeldiniz. Aşağıdan loaderi indirebilirsiniz.
 
-### ResxUI
+### TRKByte
 
-ResxUI Güncelleme Logları;
+TRKByte Logları;
 
 ```
-1.0 Sürümü Çıkmıştır.
+ÇOK YAKINDA
 ```
 
 Daha Fazlası İçin [ByNoSoftware](https://www.bynosoftware.tk)'a bekleriz.
