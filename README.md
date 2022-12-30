@@ -10,6 +10,6 @@ ResxUI Güncelleme Logları;
 1.0 Sürümü Çıkmıştır.
 ```
 
-Daha Fazlası İçin [ResxForum](http://resxcheat.ga)'a bekleriz.
+Daha Fazlası İçin [ByNoSoftware](https://www.bynosoftware.tk)'a bekleriz.
 
-![mka](https://i.hizliresim.com/aDXog6.png/)
+![mka](https://i.hizliresim.com/kbi1uz1.jpg)
